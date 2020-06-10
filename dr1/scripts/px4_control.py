@@ -172,7 +172,7 @@ class Px4Controller: #Class is used for creating objects
             '''
             BODY_FLU
             '''
-            # For Body frame, we will use FLU (Forward, Left and Up)
+            # For Body frame, we will use FLU (Forward, Left and Up).
             #           +Z     +X
             #            ^    ^
             #            |  /
