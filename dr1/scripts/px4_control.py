@@ -14,7 +14,7 @@ import threading
 
 
 class Px4Controller: #Class is used for creating objects 
-    def __init__(self): #Defining the function
+    def __init__(self): #Defining the function.
 
         """
         “self” keyword access the attributes and methods of the class in python
