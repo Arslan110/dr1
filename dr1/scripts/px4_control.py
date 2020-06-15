@@ -190,7 +190,7 @@ Defining functions from the ROS Subscribers for the message
             '''
             BODY_FLU
             '''
-            # For Body frame, we will use FLU (Forward, Left and Up)
+            # For Body frame, we will use FLU (Forward, Left and Up).
             #           +Z     +X
             #            ^    ^
             #            |  /
