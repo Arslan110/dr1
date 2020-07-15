@@ -101,7 +101,7 @@ class Px4Controller:
             time.sleep(0.2)
 
         if self.takeoff_detection():
-            print("Vehicle Took Off!")
+            print("Vehicle Took Off!").
 
         else:
             print("Vehicle Took Off Failed!")
